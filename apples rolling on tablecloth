@@ -1,5 +1,6 @@
 function setup() {
   createCanvas(400, 400);
+
 }
 
 var ballX = 30; // set up a variable called "ballX" 
