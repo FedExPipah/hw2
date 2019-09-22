@@ -16,16 +16,16 @@ function draw() {
   background(30, 144, 255);
 
   stroke(255, 200);
-  strokeWeight(10);
+  strokeWeight(5);
   line(250, 0, 250, 400);
 
-  strokeWeight(10);
+  strokeWeight(5);
   line(150, 0, 150, 400);
 
-  strokeWeight(10);
+  strokeWeight(5);
   line(50, 0, 50, 400);
 
-  strokeWeight(10);
+  strokeWeight(5);
   line(350, 0, 350, 400);
 
   noStroke();
