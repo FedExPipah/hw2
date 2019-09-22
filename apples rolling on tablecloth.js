@@ -79,11 +79,9 @@ function draw() {
   ballX3 = ballX3 + ballSpeed3;
   ballX4 = ballX4 + ballSpeed4;
 
-  // ballX = ballX + 2; // # = speed that balX move (n pixel at a time)
-
   //bounce
   if (ballX >= 400) {
-    ballSpeed = -3 //moving speed
+    ballSpeed = -3 
   }
   if (ballX2 >= 400) {
     ballSpeed2 = -5;
